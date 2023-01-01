@@ -1,0 +1,4 @@
+a,button,span,img ---->display: inline;
+
+
+div,h1-h6,p ---->display: block;
